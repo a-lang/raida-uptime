@@ -5,58 +5,55 @@ repo: raida-uptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: RAIDA#0 Australia
-    url: https://raida0.cloudcoin.global/service/echo
+    url: $RAIDA_00
   - name: RAIDA#1 Macedonia
-    url: https://raida1.cloudcoin.global/service/echo
+    url: $RAIDA_01
   - name: RAIDA#2 Philippines
-    url: https://raida2.cloudcoin.global/service/echo
+    url: $RAIDA_02
   - name: RAIDA#3 Serbia
-    url: https://raida3.cloudcoin.global/service/echo
+    url: $RAIDA_03
   - name: RAIDA#4 Switzerland
-    url: https://raida4.cloudcoin.global/service/echo
+    url: $RAIDA_04
   - name: RAIDA#5 South Korea
-    url: https://raida5.cloudcoin.global/service/echo
+    url: $RAIDA_05
   - name: RAIDA#6 Japan
-    url: https://raida6.cloudcoin.global/service/echo
+    url: $RAIDA_06
   - name: RAIDA#7 UK
-    url: https://raida7.cloudcoin.global/service/echo
+    url: $RAIDA_07
   - name: RAIDA#8 India
-    url: https://raida8.cloudcoin.global/service/echo
+    url: $RAIDA_08
   - name: RAIDA#9 India
-    url: https://raida9.cloudcoin.global/service/echo
+    url: $RAIDA_09
   - name: RAIDA#10 Germany
-    url: https://raida10.cloudcoin.global/service/echo
+    url: $RAIDA_10
   - name: RAIDA#11 USA
-    url: https://raida11.cloudcoin.global/service/echo
+    url: $RAIDA_11
   - name: RAIDA#12 India
-    url: https://raida12.cloudcoin.global/service/echo
+    url: $RAIDA_12
   - name: RAIDA#13 Taiwan
-    url: https://raida13.cloudcoin.global/service/echo
+    url: $RAIDA_13
   - name: RAIDA#14 Russia
-    url: https://raida14.cloudcoin.global/service/echo
+    url: $RAIDA_14
   - name: RAIDA#15 Russia
-    url: https://raida15.cloudcoin.global/service/echo
+    url: $RAIDA_15
   - name: RAIDA#16 UK
-    url: https://raida16.cloudcoin.global/service/echo
+    url: $RAIDA_16
   - name: RAIDA#17 Singapore
-    url: https://raida17.cloudcoin.global/service/echo
+    url: $RAIDA_17
   - name: RAIDA#18 USA
-    url: https://raida18.cloudcoin.global/service/echo
+    url: $RAIDA_18
   - name: RAIDA#19 Argentina
-    url: https://raida19.cloudcoin.global/service/echo
+    url: $RAIDA_19
   - name: RAIDA#20 France
-    url: https://raida20.cloudcoin.global/service/echo
+    url: $RAIDA_20
   - name: RAIDA#21 India
-    url: https://raida21.cloudcoin.global/service/echo
+    url: $RAIDA_21
   - name: RAIDA#22 USA
-    url: https://raida22.cloudcoin.global/service/echo
+    url: $RAIDA_22
   - name: RAIDA#23 Germany
-    url: https://raida23.cloudcoin.global/service/echo
+    url: $RAIDA_23
   - name: RAIDA#24 Canada
     url: $RAIDA_24
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
 
 
 status-website:
