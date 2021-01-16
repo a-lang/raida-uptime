@@ -57,8 +57,7 @@ sites:
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -66,7 +65,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /raida-uptime
   logoUrl: https://github.com/a-lang/raida-uptime/raw/master/CloudCoinLogo2.svg
-  name: Upptime
+  name: RAIDA Supernodes - Uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
