@@ -437,19 +437,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-24-canada",
     "status": "up",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 548,
     "timeWeek": 548,
     "timeMonth": 548,
     "timeYear": 548,
-    "dailyMinutesDown": {
-      "2021-01-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test for HEAD",
@@ -476,8 +474,8 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 0,
