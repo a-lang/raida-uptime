@@ -58,7 +58,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  #cname: demo.upptime.js.org
+  cname: uptime.cloudcoin.tw
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /raida-uptime
   logoUrl: https://github.com/a-lang/raida-uptime/raw/master/CloudCoinLogo2.svg
