@@ -63,8 +63,8 @@ status-website:
   baseUrl: /raida-uptime
   logoUrl: https://github.com/a-lang/raida-uptime/raw/master/CloudCoinLogo2.svg
   name: RAIDA Supernodes - Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**RAIDA** is the **R**edundant **A**rray of **I**ndependent **D**etection **A**gents."
+  introMessage: **RAIDA** has data-supremacy like blockchain, meaning it cannot be brought down, controlled or manipulated. Yet **RAIDA** is faster, more secure, totally private, more energy efficient, quantum-safe and is scalable to the entire world's population. **RAIDA** does what blockchain simply can't do. It is a provisionally patented, next-generation system on a global scale. [**View more details about RAIDA**](https://raidatech.com/)
   navbar:
     - title: Status
       href: /
