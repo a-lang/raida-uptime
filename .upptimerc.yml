@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: RAIDA#00
-    url: https://raida00.cloudcoin.global/service/echo
+  - name: RAIDA#0
+    url: https://raida0.cloudcoin.global/service/echo
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
