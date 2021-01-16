@@ -4,15 +4,57 @@ repo: raida-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: RAIDA#0
     url: https://raida0.cloudcoin.global/service/echo
-  - name: Test for HEAD
+  - name: RAIDA#1
+    url: https://raida1.cloudcoin.global/service/echo
+  - name: RAIDA#2
+    url: https://raida2.cloudcoin.global/service/echo
+  - name: RAIDA#3
+    url: https://raida3.cloudcoin.global/service/echo
+  - name: RAIDA#4
+    url: https://raida4.cloudcoin.global/service/echo
+- name: RAIDA#5
+    url: https://raida5.cloudcoin.global/service/echo
+- name: RAIDA#6
+    url: https://raida6.cloudcoin.global/service/echo
+- name: RAIDA#7
+    url: https://raida7.cloudcoin.global/service/echo
+- name: RAIDA#8
+    url: https://raida8.cloudcoin.global/service/echo
+- name: RAIDA#9
+    url: https://raida9.cloudcoin.global/service/echo
+- name: RAIDA#10
+    url: https://raida10.cloudcoin.global/service/echo
+- name: RAIDA#11
+    url: https://raida11.cloudcoin.global/service/echo
+- name: RAIDA#12
+    url: https://raida12.cloudcoin.global/service/echo
+- name: RAIDA#13
+    url: https://raida13.cloudcoin.global/service/echo
+- name: RAIDA#14
+    url: https://raida14.cloudcoin.global/service/echo
+- name: RAIDA#15
+    url: https://raida15.cloudcoin.global/service/echo
+- name: RAIDA#16
+    url: https://raida16.cloudcoin.global/service/echo
+- name: RAIDA#17
+    url: https://raida17.cloudcoin.global/service/echo
+- name: RAIDA#18
+    url: https://raida18.cloudcoin.global/service/echo
+- name: RAIDA#19
+    url: https://raida19.cloudcoin.global/service/echo
+- name: RAIDA#20
+    url: https://raida20.cloudcoin.global/service/echo
+- name: RAIDA#21
+    url: https://raida21.cloudcoin.global/service/echo
+- name: RAIDA#22
+    url: https://raida22.cloudcoin.global/service/echo
+- name: RAIDA#23
+    url: https://raida23.cloudcoin.global/service/echo
+- name: RAIDA#24 Canada
+    url: $RAIDA_24
+- name: Test for HEAD
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
