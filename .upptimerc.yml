@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: a-lang # Your GitHub username
+repo: raida-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: RAIDA#00
+    url: https://raida00.cloudcoin.global/service/echo
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
