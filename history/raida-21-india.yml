@@ -1,7 +1,7 @@
-url: https://raida21.cloudcoin.global/service/echo
+url: $RAIDA_21
 status: up
 code: 200
-responseTime: 429
-lastUpdated: 2021-01-16T04:03:27.273Z
+responseTime: 460
+lastUpdated: 2021-01-16T04:38:17.226Z
 startTime: Sat Jan 16 2021 03:34:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
