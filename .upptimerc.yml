@@ -64,7 +64,7 @@ status-website:
   logoUrl: https://github.com/a-lang/raida-uptime/raw/master/CloudCoinLogo2.svg
   name: RAIDA Supernodes - Uptime
   introTitle: "**RAIDA** is the **R**edundant **A**rray of **I**ndependent **D**etection **A**gents."
-  introMessage: **RAIDA** has data-supremacy like blockchain, meaning it cannot be brought down, controlled or manipulated. [**View more details about RAIDA**](https://raidatech.com/)
+  introMessage: "**RAIDA** has data-supremacy like blockchain, meaning it cannot be brought down, controlled or manipulated. [**View more details about RAIDA**](https://raidatech.com/)"
   navbar:
     - title: Status
       href: /
