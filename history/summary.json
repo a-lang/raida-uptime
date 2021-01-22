@@ -22,9 +22,9 @@
     "url": "$RAIDA_01",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-22": 0
+    }
   },
   {
     "name": "RAIDA#2 Philippines",
