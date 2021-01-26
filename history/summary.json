@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
     "status": "down",
-    "uptime": "64.91%",
+    "uptime": "64.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.17%",
-    "uptimeMonth": "64.91%",
-    "uptimeYear": "64.91%",
+    "uptimeWeek": "48.84%",
+    "uptimeMonth": "64.31%",
+    "uptimeYear": "64.31%",
     "time": 453,
     "timeDay": 0,
     "timeWeek": 545,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-01-26": 127,
+      "2021-01-26": 260,
       "2021-01-25": 1440,
       "2021-01-24": 1440,
       "2021-01-23": 1440,
@@ -300,9 +300,9 @@
     "url": "$RAIDA_16",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-16-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -311,7 +311,9 @@
     "timeWeek": 568,
     "timeMonth": 532,
     "timeYear": 532,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-26": 0
+    }
   },
   {
     "name": "RAIDA#17 Singapore",
