@@ -222,19 +222,19 @@
     "url": "$RAIDA_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-11-usa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 409,
-    "timeWeek": 315,
-    "timeMonth": 295,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 286,
+    "timeDay": 311,
+    "timeWeek": 302,
+    "timeMonth": 292,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2021-03-03": 0
+      "2021-03-03": 5
     }
   },
   {
