@@ -381,17 +381,17 @@
     "url": "$RAIDA_19",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-19-argentina",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 478,
-    "timeDay": 294,
-    "timeWeek": 461,
-    "timeMonth": 434,
-    "timeYear": 478,
+    "time": 481,
+    "timeDay": 505,
+    "timeWeek": 493,
+    "timeMonth": 443,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2021-02-04": 48
     }
