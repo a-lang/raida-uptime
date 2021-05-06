@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
     "status": "up",
-    "uptime": "96.14%",
+    "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.15%",
     "time": 682,
     "timeDay": 429,
     "timeWeek": 459,
@@ -225,10 +225,10 @@
     "url": "$RAIDA_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-11-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 763,
@@ -237,6 +237,7 @@
     "timeMonth": 266,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2021-05-06": 2,
       "2021-03-03": 296
     }
   },
@@ -361,9 +362,9 @@
     "url": "$RAIDA_18",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-18-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -373,6 +374,7 @@
     "timeMonth": 348,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2021-05-06": 0,
       "2021-01-27": 334
     }
   },
