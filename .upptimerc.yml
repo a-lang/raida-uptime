@@ -54,7 +54,12 @@ sites:
     url: $RAIDA_23
   - name: RAIDA#24 Canada
     url: $RAIDA_24
-
+  - name: RAIDA#13 Taiwan(CORS)
+    url: $RAIDA_13
+    headers:
+      - "Origin: http://example.com"
+      - "Access-Control-Request-Method: POST"
+      - "Access-Control-Request-Headers: X-Requested-With"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
