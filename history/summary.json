@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "95.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.05%",
+    "uptimeWeek": "97.26%",
     "uptimeMonth": "87.19%",
     "uptimeYear": "95.20%",
     "time": 631,
@@ -361,9 +361,9 @@
     "url": "$RAIDA_17",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-17-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -372,7 +372,9 @@
     "timeWeek": 313,
     "timeMonth": 305,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-06": 0
+    }
   },
   {
     "name": "RAIDA#18 USA",
