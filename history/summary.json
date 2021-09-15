@@ -172,18 +172,16 @@
     "slug": "raida-7-uk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 193,
     "timeWeek": 349,
     "timeMonth": 403,
     "timeYear": 392,
-    "dailyMinutesDown": {
-      "2021-09-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RAIDA#8 India",
@@ -192,18 +190,16 @@
     "slug": "raida-8-india",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 822,
     "timeWeek": 593,
     "timeMonth": 553,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2021-09-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RAIDA#9 India",
@@ -230,18 +226,16 @@
     "slug": "raida-10-germany",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 294,
     "timeWeek": 194,
     "timeMonth": 222,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2021-09-15": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RAIDA#11 USA",
@@ -538,19 +532,19 @@
     "url": "$RAIDA_24",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-24-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.86%",
     "time": 506,
-    "timeDay": 4798,
-    "timeWeek": 1418,
-    "timeMonth": 662,
+    "timeDay": 3370,
+    "timeWeek": 1328,
+    "timeMonth": 658,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2021-09-15": 1,
+      "2021-09-15": 8,
       "2021-09-13": 16,
       "2021-07-27": 403,
       "2021-05-21": 30,
