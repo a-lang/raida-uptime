@@ -170,10 +170,10 @@
     "url": "$RAIDA_07",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-7-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
@@ -181,17 +181,19 @@
     "timeWeek": 365,
     "timeMonth": 408,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-15": 1
+    }
   },
   {
     "name": "RAIDA#8 India",
     "url": "$RAIDA_08",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-8-india",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 486,
@@ -199,7 +201,9 @@
     "timeWeek": 633,
     "timeMonth": 561,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-15": 1
+    }
   },
   {
     "name": "RAIDA#9 India",
@@ -224,10 +228,10 @@
     "url": "$RAIDA_10",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-10-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
@@ -235,7 +239,9 @@
     "timeWeek": 194,
     "timeMonth": 223,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-15": 1
+    }
   },
   {
     "name": "RAIDA#11 USA",
