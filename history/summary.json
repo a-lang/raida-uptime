@@ -348,10 +348,10 @@
     "url": "$RAIDA_16",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-16-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 476,
@@ -360,6 +360,7 @@
     "timeMonth": 535,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2021-09-21": 2,
       "2021-01-26": 27
     }
   },
@@ -418,18 +419,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-19-argentina",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.94%",
     "time": 628,
     "timeDay": 250,
     "timeWeek": 311,
     "timeMonth": 500,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2021-09-21": 1,
+      "2021-09-21": 68,
       "2021-05-06": 85,
       "2021-02-04": 48
     }
