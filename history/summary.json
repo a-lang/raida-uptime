@@ -417,10 +417,10 @@
     "url": "$RAIDA_19",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-19-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 628,
@@ -429,6 +429,7 @@
     "timeMonth": 500,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2021-09-21": 1,
       "2021-05-06": 85,
       "2021-02-04": 48
     }
