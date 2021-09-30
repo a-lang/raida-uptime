@@ -22,9 +22,9 @@
     "url": "$RAIDA_01",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
-    "status": "up",
+    "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "96.80%",
@@ -34,6 +34,7 @@
     "timeMonth": 386,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2021-09-30": 0,
       "2021-09-23": 35,
       "2021-06-29": 506,
       "2021-06-28": 1440,
@@ -517,9 +518,9 @@
     "slug": "raida-23-germany",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 257,
     "timeDay": 195,
@@ -527,7 +528,6 @@
     "timeMonth": 229,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-09-30": 7,
       "2021-02-02": 255
     }
   },
