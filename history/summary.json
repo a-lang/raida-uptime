@@ -30,7 +30,7 @@
     "uptimeYear": "97.00%",
     "time": 544,
     "timeDay": 792,
-    "timeWeek": 433,
+    "timeWeek": 452,
     "timeMonth": 370,
     "timeYear": 544,
     "dailyMinutesDown": {
@@ -373,9 +373,9 @@
     "url": "$RAIDA_17",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-17-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -385,6 +385,7 @@
     "timeMonth": 420,
     "timeYear": 404,
     "dailyMinutesDown": {
+      "2021-10-19": 0,
       "2021-08-31": 18,
       "2021-08-25": 32,
       "2021-08-17": 55,
