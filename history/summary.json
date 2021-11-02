@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
     "status": "up",
-    "uptime": "97.13%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "97.13%",
+    "uptimeYear": "97.14%",
     "time": 543,
     "timeDay": 334,
     "timeWeek": 573,
@@ -571,9 +571,9 @@
     "url": "$RAIDA_13",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-13-taiwan-cors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -582,6 +582,8 @@
     "timeWeek": 520,
     "timeMonth": 321,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-02": 0
+    }
   }
 ]
