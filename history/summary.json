@@ -246,9 +246,9 @@
     "url": "$RAIDA_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-11-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -258,6 +258,7 @@
     "timeMonth": 241,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2021-11-03": 0,
       "2021-07-27": 151,
       "2021-03-03": 296
     }
