@@ -34,7 +34,7 @@
     "timeMonth": 279,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-01-19": 1411,
+      "2022-01-19": 1420,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
@@ -133,7 +133,7 @@
     "timeDay": 360,
     "timeWeek": 277,
     "timeMonth": 371,
-    "timeYear": 715,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2021-10-13": 72,
       "2021-02-25": 15,
@@ -205,7 +205,7 @@
     "timeDay": 327,
     "timeWeek": 519,
     "timeMonth": 603,
-    "timeYear": 729,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2021-11-04": 19
     }
@@ -246,7 +246,7 @@
     "timeDay": 290,
     "timeWeek": 267,
     "timeMonth": 361,
-    "timeYear": 389,
+    "timeYear": 388,
     "dailyMinutesDown": {}
   },
   {
@@ -318,7 +318,7 @@
     "timeDay": 219,
     "timeWeek": 268,
     "timeMonth": 266,
-    "timeYear": 436,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2021-11-03": 36,
       "2021-07-27": 151,
@@ -332,17 +332,17 @@
     "slug": "raida-12-india",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "71.78%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "71.12%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.92%",
     "time": 445,
     "timeDay": 626,
     "timeWeek": 580,
     "timeMonth": 455,
-    "timeYear": 446,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2022-01-19": 406
+      "2022-01-19": 416
     }
   },
   {
@@ -360,7 +360,7 @@
     "timeDay": 134,
     "timeWeek": 143,
     "timeMonth": 143,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2021-12-31": 24,
       "2021-12-28": 58,
@@ -442,7 +442,7 @@
     "timeDay": 208,
     "timeWeek": 4054,
     "timeMonth": 3412,
-    "timeYear": 1027,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2022-01-18": 27,
       "2022-01-15": 16,
@@ -497,7 +497,7 @@
     "timeDay": 220,
     "timeWeek": 298,
     "timeMonth": 1282,
-    "timeYear": 589,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2022-01-09": 95,
       "2022-01-05": 18,
@@ -552,7 +552,7 @@
     "timeDay": 779,
     "timeWeek": 743,
     "timeMonth": 700,
-    "timeYear": 726,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2022-01-07": 20,
       "2022-01-03": 358,
@@ -596,7 +596,7 @@
     "timeDay": 1235,
     "timeWeek": 630,
     "timeMonth": 533,
-    "timeYear": 465,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2021-02-18": 877,
       "2021-02-17": 339
@@ -640,7 +640,7 @@
     "timeDay": 521,
     "timeWeek": 225,
     "timeMonth": 251,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2021-02-02": 255
     }
@@ -650,19 +650,19 @@
     "url": "$RAIDA_24",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-24-canada",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.17%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.75%",
     "time": 608,
-    "timeDay": 348,
-    "timeWeek": 1822,
-    "timeMonth": 1045,
-    "timeYear": 613,
+    "timeDay": 460,
+    "timeWeek": 1726,
+    "timeMonth": 1033,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-01-19": 1,
+      "2022-01-19": 9,
       "2022-01-18": 23,
       "2022-01-17": 34,
       "2022-01-11": 722,
