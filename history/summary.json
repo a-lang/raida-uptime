@@ -26,7 +26,7 @@
     "uptime": "83.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.07%",
+    "uptimeMonth": "88.10%",
     "uptimeYear": "82.81%",
     "time": 494,
     "timeDay": 363,
@@ -623,19 +623,19 @@
     "url": "$RAIDA_23",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-23-germany",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 167,
-    "timeWeek": 186,
-    "timeMonth": 203,
+    "timeDay": 179,
+    "timeWeek": 187,
+    "timeMonth": 202,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-02-17": 1
+      "2022-02-17": 10
     }
   },
   {
