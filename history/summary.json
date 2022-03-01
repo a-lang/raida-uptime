@@ -13,7 +13,7 @@
     "time": 476,
     "timeDay": 474,
     "timeWeek": 371,
-    "timeMonth": 388,
+    "timeMonth": 393,
     "timeYear": 480,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 487,
     "timeDay": 165,
     "timeWeek": 249,
-    "timeMonth": 303,
+    "timeMonth": 317,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2022-01-21": 325,
@@ -125,7 +125,7 @@
     "time": 712,
     "timeDay": 289,
     "timeWeek": 478,
-    "timeMonth": 395,
+    "timeMonth": 404,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2021-10-13": 72
@@ -145,7 +145,7 @@
     "time": 274,
     "timeDay": 187,
     "timeWeek": 232,
-    "timeMonth": 360,
+    "timeMonth": 370,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2021-11-18": 33,
@@ -168,7 +168,7 @@
     "time": 416,
     "timeDay": 179,
     "timeWeek": 241,
-    "timeMonth": 225,
+    "timeMonth": 220,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2021-08-07": 20,
@@ -189,7 +189,7 @@
     "time": 715,
     "timeDay": 386,
     "timeWeek": 556,
-    "timeMonth": 600,
+    "timeMonth": 613,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2021-11-04": 19
@@ -209,7 +209,7 @@
     "time": 316,
     "timeDay": 172,
     "timeWeek": 269,
-    "timeMonth": 249,
+    "timeMonth": 254,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2021-07-08": 16,
@@ -230,7 +230,7 @@
     "time": 382,
     "timeDay": 157,
     "timeWeek": 431,
-    "timeMonth": 349,
+    "timeMonth": 359,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -248,7 +248,7 @@
     "time": 508,
     "timeDay": 356,
     "timeWeek": 570,
-    "timeMonth": 545,
+    "timeMonth": 554,
     "timeYear": 509,
     "dailyMinutesDown": {}
   },
@@ -266,7 +266,7 @@
     "time": 440,
     "timeDay": 375,
     "timeWeek": 437,
-    "timeMonth": 565,
+    "timeMonth": 563,
     "timeYear": 429,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "time": 233,
     "timeDay": 166,
     "timeWeek": 224,
-    "timeMonth": 222,
+    "timeMonth": 229,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -293,19 +293,20 @@
     "url": "$RAIDA_11",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-11-usa",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.89%",
     "time": 445,
-    "timeDay": 4620,
-    "timeWeek": 1353,
-    "timeMonth": 616,
-    "timeYear": 467,
+    "timeDay": 3136,
+    "timeWeek": 1221,
+    "timeMonth": 638,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2022-02-28": 0,
+      "2022-03-01": 58,
+      "2022-02-28": 3,
       "2022-02-17": 23,
       "2022-02-02": 22,
       "2021-11-03": 36,
@@ -327,7 +328,7 @@
     "time": 448,
     "timeDay": 342,
     "timeWeek": 354,
-    "timeMonth": 532,
+    "timeMonth": 518,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2022-01-26": 96,
@@ -350,7 +351,7 @@
     "time": 306,
     "timeDay": 133,
     "timeWeek": 157,
-    "timeMonth": 232,
+    "timeMonth": 244,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2021-12-31": 24,
@@ -378,7 +379,7 @@
     "time": 367,
     "timeDay": 181,
     "timeWeek": 322,
-    "timeMonth": 326,
+    "timeMonth": 333,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2021-12-21": 170,
@@ -399,7 +400,7 @@
     "time": 559,
     "timeDay": 315,
     "timeWeek": 460,
-    "timeMonth": 443,
+    "timeMonth": 440,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2022-02-23": 24,
@@ -413,8 +414,7 @@
       "2021-05-16": 778,
       "2021-05-15": 154,
       "2021-05-14": 16,
-      "2021-03-10": 30,
-      "2021-03-01": 56
+      "2021-03-10": 30
     }
   },
   {
@@ -431,7 +431,7 @@
     "time": 1058,
     "timeDay": 295,
     "timeWeek": 431,
-    "timeMonth": 411,
+    "timeMonth": 407,
     "timeYear": 1134,
     "dailyMinutesDown": {
       "2022-02-24": 398,
@@ -459,7 +459,7 @@
     "time": 372,
     "timeDay": 187,
     "timeWeek": 237,
-    "timeMonth": 346,
+    "timeMonth": 363,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2021-10-30": 188,
@@ -478,18 +478,19 @@
     "url": "$RAIDA_18",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-18-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.80%",
     "time": 729,
     "timeDay": 5792,
     "timeWeek": 2095,
-    "timeMonth": 2104,
+    "timeMonth": 2230,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2022-03-01": 1,
       "2022-02-28": 19,
       "2022-02-17": 18,
       "2022-02-11": 18,
@@ -521,7 +522,7 @@
     "time": 663,
     "timeDay": 410,
     "timeWeek": 619,
-    "timeMonth": 557,
+    "timeMonth": 584,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2022-02-01": 854,
@@ -546,7 +547,7 @@
     "time": 741,
     "timeDay": 687,
     "timeWeek": 671,
-    "timeMonth": 643,
+    "timeMonth": 641,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2022-02-24": 16,
@@ -590,7 +591,7 @@
     "time": 511,
     "timeDay": 376,
     "timeWeek": 530,
-    "timeMonth": 529,
+    "timeMonth": 540,
     "timeYear": 515,
     "dailyMinutesDown": {}
   },
@@ -608,7 +609,7 @@
     "time": 204,
     "timeDay": 334,
     "timeWeek": 245,
-    "timeMonth": 266,
+    "timeMonth": 278,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2021-11-01": 23,
@@ -631,7 +632,7 @@
     "time": 247,
     "timeDay": 172,
     "timeWeek": 190,
-    "timeMonth": 184,
+    "timeMonth": 180,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -649,7 +650,7 @@
     "time": 594,
     "timeDay": 747,
     "timeWeek": 443,
-    "timeMonth": 426,
+    "timeMonth": 432,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2022-01-27": 20,
@@ -678,7 +679,7 @@
     "time": 267,
     "timeDay": 112,
     "timeWeek": 144,
-    "timeMonth": 142,
+    "timeMonth": 144,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2021-12-31": 16,
