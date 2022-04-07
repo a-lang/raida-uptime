@@ -114,9 +114,9 @@
     "url": "$RAIDA_02",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-2-philippines",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -126,6 +126,7 @@
     "timeMonth": 435,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2021-10-13": 72
     }
   },
@@ -518,9 +519,9 @@
     "slug": "raida-19-argentina",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.75%",
     "time": 662,
     "timeDay": 721,
@@ -528,7 +529,6 @@
     "timeMonth": 652,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-04-07": 12,
       "2022-03-26": 187,
       "2022-02-01": 854,
       "2022-01-05": 30,
