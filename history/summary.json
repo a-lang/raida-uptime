@@ -638,18 +638,20 @@
     "url": "$RAIDA_23",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-23-germany",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
+    "time": 239,
     "timeDay": 194,
     "timeWeek": 190,
     "timeMonth": 192,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-14": 1
+    }
   },
   {
     "name": "RAIDA#24 Canada",
