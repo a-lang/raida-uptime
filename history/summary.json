@@ -23,7 +23,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-1-macedonia",
     "status": "up",
-    "uptime": "86.19%",
+    "uptime": "86.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -221,10 +221,10 @@
     "url": "$RAIDA_07",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-7-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
@@ -232,17 +232,19 @@
     "timeWeek": 416,
     "timeMonth": 476,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-15": 1
+    }
   },
   {
     "name": "RAIDA#8 India",
     "url": "$RAIDA_08",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raida-8-india",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 524,
@@ -250,7 +252,9 @@
     "timeWeek": 512,
     "timeMonth": 583,
     "timeYear": 538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-15": 1
+    }
   },
   {
     "name": "RAIDA#9 India",
@@ -455,7 +459,7 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.16%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.55%",
     "time": 622,
     "timeDay": 165,
@@ -558,7 +562,7 @@
     "timeDay": 549,
     "timeWeek": 722,
     "timeMonth": 628,
-    "timeYear": 851,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2022-03-25": 58,
       "2022-03-19": 336,
@@ -638,12 +642,12 @@
     "slug": "raida-23-germany",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "91.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.98%",
     "time": 271,
-    "timeDay": 7973,
+    "timeDay": 311,
     "timeWeek": 2135,
     "timeMonth": 677,
     "timeYear": 276,
