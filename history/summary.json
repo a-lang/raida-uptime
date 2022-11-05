@@ -174,18 +174,19 @@
     "url": "$RAIDA_05",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-5-south-korea",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "13.34%",
-    "uptimeWeek": "16.98%",
+    "uptimeDay": "17.04%",
+    "uptimeWeek": "17.04%",
     "uptimeMonth": "66.59%",
     "uptimeYear": "96.14%",
     "time": 1067,
-    "timeDay": 885,
-    "timeWeek": 1491,
-    "timeMonth": 1389,
-    "timeYear": 1119,
+    "timeDay": 881,
+    "timeWeek": 1466,
+    "timeMonth": 1386,
+    "timeYear": 1118,
     "dailyMinutesDown": {
+      "2022-11-05": 0,
       "2022-11-04": 1245,
       "2022-11-03": 1416,
       "2022-11-02": 1023,
@@ -216,8 +217,7 @@
       "2022-06-21": 110,
       "2022-06-13": 1015,
       "2022-06-12": 915,
-      "2022-05-06": 553,
-      "2022-04-29": 35
+      "2022-05-06": 553
     }
   },
   {
@@ -647,7 +647,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.25%",
     "time": 1043,
     "timeDay": 741,
     "timeWeek": 633,
@@ -685,7 +685,6 @@
       "2021-12-13": 131,
       "2021-12-01": 995,
       "2021-11-30": 76,
-      "2021-11-05": 1766,
       "2021-11-06": 948
     }
   },
@@ -759,7 +758,7 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.74%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.84%",
     "time": 570,
