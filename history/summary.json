@@ -174,15 +174,15 @@
     "url": "$RAIDA_05",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-5-south-korea",
-    "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "6.23%",
-    "uptimeWeek": "12.40%",
-    "uptimeMonth": "55.17%",
-    "uptimeYear": "96.26%",
+    "status": "down",
+    "uptime": "98.02%",
+    "uptimeDay": "7.22%",
+    "uptimeWeek": "12.54%",
+    "uptimeMonth": "56.73%",
+    "uptimeYear": "96.39%",
     "time": 1062,
-    "timeDay": 959,
-    "timeWeek": 990,
+    "timeDay": 970,
+    "timeWeek": 991,
     "timeMonth": 1247,
     "timeYear": 1081,
     "dailyMinutesDown": {
@@ -201,8 +201,7 @@
       "2022-10-30": 1313,
       "2022-10-29": 1270,
       "2022-10-28": 1318,
-      "2022-10-27": 1362,
-      "2022-10-26": 165
+      "2022-10-27": 843
     }
   },
   {
