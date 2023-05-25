@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-1-macedonia",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -661,10 +661,10 @@
     "url": "$RAIDA_22",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-22-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -673,6 +673,7 @@
     "timeMonth": 271,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2023-05-25": 1,
       "2022-06-21": 24
     }
   },
@@ -709,7 +710,7 @@
     "uptimeYear": "98.85%",
     "time": 507,
     "timeDay": 465,
-    "timeWeek": 745,
+    "timeWeek": 499,
     "timeMonth": 737,
     "timeYear": 484,
     "dailyMinutesDown": {
