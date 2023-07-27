@@ -22,18 +22,20 @@
     "url": "$RAIDA_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-1-macedonia",
-    "status": "up",
-    "uptime": "92.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "92.75%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
+    "time": 429,
     "timeDay": 601,
     "timeWeek": 573,
     "timeMonth": 549,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-27": 1
+    }
   },
   {
     "name": "RAIDA#2 Philippines",
@@ -113,7 +115,7 @@
     "timeDay": 843,
     "timeWeek": 951,
     "timeMonth": 1069,
-    "timeYear": 1203,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-07-03": 20,
       "2023-06-14": 400,
@@ -264,7 +266,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.66%",
     "time": 435,
     "timeDay": 154,
     "timeWeek": 273,
