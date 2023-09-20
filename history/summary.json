@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 0,
-    "timeWeek": 955,
-    "timeMonth": 667,
-    "timeYear": 584,
+    "time": 558,
+    "timeDay": 596,
+    "timeWeek": 903,
+    "timeMonth": 665,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1206,
     "timeWeek": 1001,
     "timeMonth": 740,
-    "timeYear": 535,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-09-09": 17,
       "2023-09-08": 192,
@@ -55,7 +55,7 @@
     "timeDay": 636,
     "timeWeek": 801,
     "timeMonth": 2654,
-    "timeYear": 1084,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2023-09-04": 97,
       "2023-09-03": 104,
@@ -79,7 +79,7 @@
     "timeDay": 461,
     "timeWeek": 600,
     "timeMonth": 676,
-    "timeYear": 532,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -166,7 +166,7 @@
     "timeDay": 458,
     "timeWeek": 608,
     "timeMonth": 1341,
-    "timeYear": 640,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2023-09-04": 96,
       "2023-09-03": 63,
@@ -190,7 +190,7 @@
     "timeDay": 436,
     "timeWeek": 544,
     "timeMonth": 519,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2023-07-29": 92,
       "2023-05-08": 942,
@@ -214,7 +214,7 @@
     "timeDay": 879,
     "timeWeek": 932,
     "timeMonth": 1073,
-    "timeYear": 1052,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-03-31": 17
     }
@@ -234,7 +234,7 @@
     "timeDay": 781,
     "timeWeek": 955,
     "timeMonth": 1064,
-    "timeYear": 1038,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -252,7 +252,7 @@
     "timeDay": 599,
     "timeWeek": 587,
     "timeMonth": 1767,
-    "timeYear": 611,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2023-09-13": 148,
       "2023-09-12": 151,
@@ -307,7 +307,7 @@
     "timeDay": 1260,
     "timeWeek": 1171,
     "timeMonth": 1234,
-    "timeYear": 1074,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2023-04-07": 395
     }
@@ -347,7 +347,7 @@
     "timeDay": 1125,
     "timeWeek": 969,
     "timeMonth": 875,
-    "timeYear": 768,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-05-10": 17,
       "2023-05-03": 16,
@@ -372,7 +372,7 @@
     "timeDay": 904,
     "timeWeek": 1436,
     "timeMonth": 965,
-    "timeYear": 721,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2023-04-07": 18
     }
@@ -392,7 +392,7 @@
     "timeDay": 361,
     "timeWeek": 1051,
     "timeMonth": 766,
-    "timeYear": 713,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-03-29": 16
     }
@@ -433,7 +433,7 @@
     "slug": "raida-18-usa",
     "status": "up",
     "uptime": "98.33%",
-    "uptimeDay": "91.47%",
+    "uptimeDay": "92.28%",
     "uptimeWeek": "91.32%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "98.41%",
@@ -441,7 +441,7 @@
     "timeDay": 275,
     "timeWeek": 395,
     "timeMonth": 364,
-    "timeYear": 411,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2023-09-20": 72,
       "2023-09-19": 773,
@@ -473,7 +473,7 @@
     "timeDay": 720,
     "timeWeek": 956,
     "timeMonth": 1263,
-    "timeYear": 925,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-08-27": 1272,
       "2023-08-26": 1440,
@@ -506,19 +506,19 @@
     "url": "$RAIDA_20",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-20-france",
-    "status": "down",
+    "status": "up",
     "uptime": "94.57%",
-    "uptimeDay": "91.84%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "95.06%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "95.04%",
     "uptimeYear": "88.27%",
-    "time": 2155,
-    "timeDay": 9402,
-    "timeWeek": 8639,
-    "timeMonth": 6772,
+    "time": 2156,
+    "timeDay": 9041,
+    "timeWeek": 8543,
+    "timeMonth": 6718,
     "timeYear": 2538,
     "dailyMinutesDown": {
-      "2023-09-20": 117,
+      "2023-09-20": 128,
       "2023-09-19": 34,
       "2023-09-18": 191,
       "2023-09-04": 1316,
@@ -609,7 +609,7 @@
     "timeDay": 890,
     "timeWeek": 997,
     "timeMonth": 1084,
-    "timeYear": 1070,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2023-03-25": 323
     }
@@ -655,7 +655,7 @@
     "timeDay": 337,
     "timeWeek": 423,
     "timeMonth": 388,
-    "timeYear": 382,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -673,7 +673,7 @@
     "timeDay": 632,
     "timeWeek": 797,
     "timeMonth": 1637,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2023-08-19": 22,
       "2023-08-18": 77,
