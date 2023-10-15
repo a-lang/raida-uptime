@@ -90,13 +90,13 @@
     "url": "$RAIDA_04",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-4-switzerland",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "45.31%",
-    "uptimeWeek": "73.07%",
-    "uptimeMonth": "82.94%",
-    "uptimeYear": "98.58%",
-    "time": 3666,
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "45.27%",
+    "uptimeWeek": "73.06%",
+    "uptimeMonth": "83.09%",
+    "uptimeYear": "98.59%",
+    "time": 3670,
     "timeDay": 11121,
     "timeWeek": 8059,
     "timeMonth": 8570,
@@ -116,7 +116,7 @@
       "2023-10-01": 1094,
       "2023-09-30": 30,
       "2023-09-29": 565,
-      "2023-09-27": 129
+      "2023-09-27": 63
     }
   },
   {
@@ -340,17 +340,17 @@
     "slug": "raida-13-taiwan",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "76.96%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "74.96%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.91%",
     "time": 230,
     "timeDay": 204,
     "timeWeek": 277,
     "timeMonth": 232,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-10-15": 332,
+      "2023-10-15": 361,
       "2023-08-23": 105
     }
   },
@@ -729,9 +729,9 @@
     "slug": "raida-13-taiwan-cors",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "76.95%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "74.94%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.91%",
     "time": 234,
     "timeDay": 185,
@@ -739,7 +739,7 @@
     "timeMonth": 207,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-15": 332,
+      "2023-10-15": 361,
       "2023-08-23": 137
     }
   }
