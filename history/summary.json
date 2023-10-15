@@ -90,13 +90,13 @@
     "url": "$RAIDA_04",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-4-switzerland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "73.85%",
-    "uptimeWeek": "77.93%",
-    "uptimeMonth": "81.97%",
+    "uptimeDay": "73.82%",
+    "uptimeWeek": "77.92%",
+    "uptimeMonth": "82.02%",
     "uptimeYear": "98.50%",
-    "time": 3379,
+    "time": 3383,
     "timeDay": 10244,
     "timeWeek": 7584,
     "timeMonth": 8429,
@@ -117,7 +117,7 @@
       "2023-09-30": 30,
       "2023-09-29": 565,
       "2023-09-27": 585,
-      "2023-09-25": 459
+      "2023-09-25": 437
     }
   },
   {
