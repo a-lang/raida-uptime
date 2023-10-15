@@ -90,19 +90,19 @@
     "url": "$RAIDA_04",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-4-switzerland",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "54.25%",
-    "uptimeWeek": "75.13%",
-    "uptimeMonth": "82.83%",
-    "uptimeYear": "98.57%",
-    "time": 3514,
-    "timeDay": 9581,
-    "timeWeek": 7620,
-    "timeMonth": 8414,
-    "timeYear": 4142,
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "54.22%",
+    "uptimeWeek": "75.12%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "98.59%",
+    "time": 3526,
+    "timeDay": 9580,
+    "timeWeek": 7637,
+    "timeMonth": 8418,
+    "timeYear": 4150,
     "dailyMinutesDown": {
-      "2023-10-15": 409,
+      "2023-10-15": 410,
       "2023-10-14": 249,
       "2023-10-13": 444,
       "2023-10-12": 395,
@@ -116,7 +116,7 @@
       "2023-10-01": 1094,
       "2023-09-30": 30,
       "2023-09-29": 565,
-      "2023-09-27": 387
+      "2023-09-27": 258
     }
   },
   {
@@ -340,9 +340,9 @@
     "slug": "raida-13-taiwan",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 230,
     "timeDay": 204,
@@ -350,7 +350,7 @@
     "timeMonth": 232,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-10-15": 51,
+      "2023-10-15": 61,
       "2023-08-23": 105
     }
   },
@@ -729,9 +729,9 @@
     "slug": "raida-13-taiwan-cors",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.96%",
     "time": 234,
     "timeDay": 185,
@@ -739,7 +739,7 @@
     "timeMonth": 207,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-15": 51,
+      "2023-10-15": 61,
       "2023-08-23": 137
     }
   }
