@@ -90,19 +90,19 @@
     "url": "$RAIDA_04",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raida-4-switzerland",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "85.45%",
+    "uptimeDay": "85.41%",
     "uptimeWeek": "71.58%",
-    "uptimeMonth": "83.10%",
-    "uptimeYear": "98.59%",
-    "time": 3486,
+    "uptimeMonth": "83.28%",
+    "uptimeYear": "98.61%",
+    "time": 3490,
     "timeDay": 6673,
     "timeWeek": 7816,
     "timeMonth": 8481,
     "timeYear": 4358,
     "dailyMinutesDown": {
-      "2023-10-17": 178,
+      "2023-10-17": 179,
       "2023-10-16": 151,
       "2023-10-15": 941,
       "2023-10-14": 249,
@@ -115,7 +115,7 @@
       "2023-10-04": 1020,
       "2023-10-03": 517,
       "2023-10-02": 310,
-      "2023-10-01": 1094
+      "2023-10-01": 1013
     }
   },
   {
@@ -342,8 +342,8 @@
     "status": "down",
     "uptime": "99.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.92%",
-    "uptimeMonth": "92.62%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.36%",
     "time": 230,
     "timeDay": 125,
@@ -351,7 +351,7 @@
     "timeMonth": 227,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-10-17": 990,
+      "2023-10-17": 1003,
       "2023-10-16": 1440,
       "2023-10-15": 804,
       "2023-08-23": 105
@@ -733,8 +733,8 @@
     "status": "down",
     "uptime": "99.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.91%",
-    "uptimeMonth": "92.62%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.36%",
     "time": 234,
     "timeDay": 98,
@@ -742,7 +742,7 @@
     "timeMonth": 200,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-17": 991,
+      "2023-10-17": 1004,
       "2023-10-16": 1440,
       "2023-10-15": 804,
       "2023-08-23": 137
