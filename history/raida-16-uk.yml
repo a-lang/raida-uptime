@@ -1,7 +1,7 @@
 url: $RAIDA_16
-status: down
-code: 530
-responseTime: 49
-lastUpdated: 2023-11-03T21:24:19.192Z
+status: up
+code: 200
+responseTime: 675
+lastUpdated: 2023-11-03T21:32:36.487Z
 startTime: 2021-01-16T03:34:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
